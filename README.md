@@ -46,9 +46,9 @@ This project develops a **Convolutional Neural Network (CNN)** that automaticall
 
 ### Source
 - **Platform**: Kaggle
-- **Dataset**: Drishti AI V1 (Balanced)
-- **Link**: https://www.kaggle.com/datasets/anshmishra777/darishtiaiv1-01
-- **Curator**: anshmishra777
+- **Dataset**: PlantVillage Dataset (Balanced)
+- **Link**: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
+- **Curator**: abdallahalidev
 
 ### Dataset Statistics
 
@@ -269,7 +269,7 @@ WEEK1/
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/likith2615/WEEK1.git
+git clone https://github.com/2320030402/WEEK1.git
 cd WEEK1
 ```
 
@@ -736,7 +736,7 @@ git push origin feature/your-improvement
 
 ### Resources
 
-- **Dataset**: https://www.kaggle.com/datasets/anshmishra777/darishtiaiv1-01
+- **Dataset**: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 - **TensorFlow**: https://www.tensorflow.org/
 - **Keras Documentation**: https://keras.io/
 - **Python Guide**: https://www.python.org/doc/
@@ -786,10 +786,10 @@ copies or substantial portions of the Software.
 
 ## 🙏 Acknowledgments
 
-- **Dataset Creator**: anshmishra777 (Kaggle)
+- **Dataset Creator**: abdallahalidev (Kaggle)
 - **Framework**: TensorFlow/Keras
 - **Challenge**: AICTE AI Sustainability Initiative
-- **Institution**: [Your Institution Name]
+- **Institution**: [Koneru Lakshmaiah Education Foundation]
 
 ---
 
@@ -798,12 +798,12 @@ copies or substantial portions of the Software.
 If you use this project in your work, please cite:
 
 ```bibtex
-@misc{plantdisease2024,
+@misc{plantdisease2025,
   title={Plant Disease Classification Using Deep Learning},
-  author={Your Name},
-  year={2024},
+  author={G. SAIABHIRAM REDDY},
+  year={2025},
   publisher={GitHub},
-  howpublished={\url{https://github.com/likith2615/WEEK1}}
+  howpublished={\url{https://github.com/2320030402/WEEK1.git1}}
 }
 ```
 
@@ -822,9 +822,9 @@ This project demonstrates how AI can solve real-world agricultural challenges. B
 
 ---
 
-**Last Updated**: November 2, 2024  
+**Last Updated**: November 2, 2025  
 **Status**: ✅ Week 1 Complete | ⏳ Week 2 In Progress  
-**Maintained By**: likith2615
+**Maintained By**: 2320030402
 
 ---
 
